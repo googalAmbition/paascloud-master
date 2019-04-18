@@ -1,3 +1,31 @@
+# maven #
+target
+
+logs
+
+# windows #
+Thumbs.db
+
+# Mac #
+.DS_Store
+
+# eclipse #
+.settings
+.project
+.classpath
+.log
+*.class
+
+# idea #
+.idea
+*.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/target
+
 # Compiled class file
 *.class
 
@@ -30,3 +58,5 @@ log.*
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+
